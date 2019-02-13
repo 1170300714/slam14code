@@ -1,0 +1,5 @@
+/home/nova/slambook/ch2/build/CMakeFiles/edit_cache.dir
+/home/nova/slambook/ch2/build/CMakeFiles/useHello.dir
+/home/nova/slambook/ch2/build/CMakeFiles/rebuild_cache.dir
+/home/nova/slambook/ch2/build/CMakeFiles/libhello.dir
+/home/nova/slambook/ch2/build/CMakeFiles/hello_shared.dir
