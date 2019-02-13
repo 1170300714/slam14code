@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/myeigenmatrix.dir/main.cpp.o  -o myeigenmatrix -rdynamic 

@@ -1,0 +1,7 @@
+/home/nova/projects/useGeometry/build/CMakeFiles/install.dir
+/home/nova/projects/useGeometry/build/CMakeFiles/list_install_components.dir
+/home/nova/projects/useGeometry/build/CMakeFiles/rebuild_cache.dir
+/home/nova/projects/useGeometry/build/CMakeFiles/usegeometry.dir
+/home/nova/projects/useGeometry/build/CMakeFiles/install/strip.dir
+/home/nova/projects/useGeometry/build/CMakeFiles/install/local.dir
+/home/nova/projects/useGeometry/build/CMakeFiles/edit_cache.dir
